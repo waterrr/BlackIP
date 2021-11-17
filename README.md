@@ -6,7 +6,7 @@ CobaltStrike通过Stager上线默认会发送CheckSum8验证，某些<b>网络�
 
 ## 数据来源
 分布在世界各地的多台服务器自动监控并自动汇总去重，更新频率为<b>5分钟</b>，如有新增恶意IP将自动同步到Github仓库。</br>
-[![BlackIP](https://cdn.gksec.com/20211117/xuIk8ggK/BlackIP.png "BlackIP")](https://app.cloudcraft.co/view/bf5b7390-594b-4ad2-bb5d-7a898ce470e3?key=e23674d9-d4b0-491d-89b0-7b3ada28c1ae&interactive=true&embed=true)
+[![BlackIP](https://cdn.gksec.com/20211117/xuIk8ggK/BlackIP.png "技术架构")](https://app.cloudcraft.co/view/bf5b7390-594b-4ad2-bb5d-7a898ce470e3?key=e23674d9-d4b0-491d-89b0-7b3ada28c1ae&interactive=true&embed=true)
 
 ## 服务器状态监控：
 https://status.gksec.com </br>
