@@ -1,3 +1,4 @@
+## 由于某些特殊原因，本项目暂停更新，等待重构⌛️
 ## BlackIP
 扫描CobaltStrike的恶意IP合集
 
